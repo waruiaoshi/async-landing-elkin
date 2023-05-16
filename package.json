@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/waruiaoshi/async-landing-elkin/issues"
   },
-  "homepage": "https://github.com/waruiaoshi/async-landing-elkin#readme"
+  "homepage": "https://github.com/waruiaoshi/async-landing-elkin#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
